@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, I'm Jean-Eudes! 👋
+
+I'm currently working at <a href="https://www.matmut.fr/" target="_blank"> Matmut</a> as a Data Scientist.
+
+Here is my <a href="https://jean-eudes-rouffiac.github.io./" target="_blank"> website</a> 😄
+
 
 <!--
 **Jean-Eudes-Rouffiac/Jean-Eudes-Rouffiac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
