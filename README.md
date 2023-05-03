@@ -1,4 +1,4 @@
-### Hello, I'm Jean-Eudes! 👋
+<!-- ### Hello, I'm Jean-Eudes! 👋
 
 I'm currently working at <a href="https://www.matmut.fr/" target="_blank"> Matmut</a> as a Data Scientist.
 
@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ -->
